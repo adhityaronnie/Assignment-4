@@ -7,7 +7,7 @@ Deliverables:
 1 Jupyter Notebook (Assignment4_unsupervised.ipynb)
 2–3 page report (PDF) summarizing findings and actuarial interpretation
 Weight: ~15% (adjust as you like)
-1. Background (for students)
+Background (for students)
 Insurance companies often group policyholders into segments for pricing, marketing, and retention strategies.
 In this assignment, you will use unsupervised learning (PCA + clustering) to discover natural groups in a portfolio of policyholders.
 Assume you have the dataset policyholder_churn.csv with variables:
